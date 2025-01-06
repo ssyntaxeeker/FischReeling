@@ -1,4 +1,0 @@
-return {
-	BARRIER_OFFSET = 1,
-	BARRIER_THICKNESS = 1,
-}
